@@ -1,0 +1,18 @@
+[submodule "projekt_Frontend"]
+	path = projekt_Frontend
+	url = https://github.com/Kubl0/projekt_Frontend
+[submodule "Projekt_PSW"]
+	path = Projekt_PSW
+	url = https://github.com/Kubl0/Projekt_PSW
+[submodule "projekt_BazyDanych"]
+	path = projekt_BazyDanych
+	url = https://github.com/Kubl0/projekt_BazyDanych
+[submodule "Algorytmy-Numeryczne"]
+	path = Algorytmy-Numeryczne
+	url = https://github.com/Kubl0/Algorytmy-Numeryczne
+[submodule "Living_World"]
+	path = Living_World
+	url = https://github.com/Kubl0/Living_World
+[submodule "projekt-bezpieczenstwo-2023-Kubl0"]
+	path = projekt-bezpieczenstwo-2023-Kubl0
+	url = https://github.com/konrad-ug/projekt-bezpieczenstwo-2023-Kubl0
